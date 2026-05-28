@@ -74,5 +74,5 @@ def afficherCarte(*args):
 ongletTemps.configure(command=afficherCarte)
 donnees.configure(command=afficherCarte)
 
-afficherCarte()  # affichage initial
+afficherCarte()
 fenetre.mainloop()
