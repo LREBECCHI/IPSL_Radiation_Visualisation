@@ -1,4 +1,4 @@
-# IPSL_Radiation_Visualisation _ Lucie REBECCHI
+# IPSL_Radiation_Visualisation
 Visualisation via Python des données de l'Institue Pierre Simon Laplace sur la radiation solaire.
 
 Packages : 
